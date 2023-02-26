@@ -49,11 +49,5 @@ Parser written in Javascript that converts *simple* Python source code to MIPS A
       ✔️ Simple function definitions with a dynamic number of parameters<br />
       ✔️ Calling user defined functions<br /><br />
       
-❗❗ Vigorous testing was *not* conducted due to lact of time. If you encounter any errors in translating to mips from valid python code (adhering to the above functionality) kindly open an issue<br /><br /> 
-❗❗ I make no claim that the mips code produced is of high quality. This was just a small project I embarked on to pass the time<br /><br />
-❗❗ This repository may or may not be updated/refactored in the future depending on my interests so any bug fixes/new functionality may never be added<br /><br />
-      
-## Try it out! 😄
-https://python2mips.herokuapp.com/ <br /><br />
-<img src="https://user-images.githubusercontent.com/46664356/67779728-03faf300-faa0-11e9-9e43-aaa49c57fb88.PNG" width="90%"></img> 
+
 
